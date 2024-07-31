@@ -1,0 +1,46 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+
+nav{
+    background-color: #373A3C;
+    font-size: 1em;
+}
+
+header{
+    background-image: url('../img/bg-hero.jpg');
+    height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header h1{
+    font-size: 4em;
+    text-align: end;
+    color: #Ffff;
+    font-weight: 700;
+}
+
+.textohero{
+    font-size: 1.5em;
+    color: #Ffff;
+    text-align: end;
+}
+
+.mistrabajos{
+    background-color: #17A2B8;
+    color: #Ffff;
+}
+
+.card-img-top {
+    height: 200px; 
+    object-fit: cover;
+}
+
+footer{
+    height: 40px;
+    background-color: #0F0F0F;
+    color: #Ffff;
+}
